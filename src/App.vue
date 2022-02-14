@@ -16,7 +16,7 @@
             {{ index + 1 }} <!-- para empezar del 1 -->
           </td>
           <td>
-            <img :src="item.image" style="width: 2rem" class="me-2" />
+            <img :src="item.image" style="width: 2rem" class="me-2" alt="monedas" />
             <span>{{ item.name }}</span>
             <span class="ms-2 text-uppercase text-muted">{{ item.symbol }}</span>
           </td>
