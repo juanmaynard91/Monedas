@@ -1,4 +1,4 @@
-Vue Aplicacion para ver Precios de Monedas Virtuales hecho con Vue Composition Api
+Titulo: Aplicacion para ver Precios de Monedas Virtuales hecho con Vue Composition Api
 
 Link: https://juanmaynard91.github.io/Monedas/
 
